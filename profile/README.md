@@ -8,7 +8,7 @@ In this project we explore the development of an online training and assessment
 framework for some new domain, examples include: Octave, Matlab, SMT solvers, etc.
 How would you create your own portal?
 
-This is the read me of the online training and assessment for developers project.
+This is the read me of the online training and assessment for developers project. 
 
 <!--
 
