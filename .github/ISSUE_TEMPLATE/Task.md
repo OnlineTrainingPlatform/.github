@@ -1,13 +1,3 @@
----
-name: Task
-about: Create a programming task that is not directly related to stakeholders.
-title: 'A short summary'
-labels: 'Task'
-assignees: ''
-
----
-
-
 ## Description
 **Describe the Task** \
 We would like to have \<this> work...
@@ -18,6 +8,6 @@ We would like to have \<this> work...
 - Update the database... 
 
 
-## Sub Tasks
-*Create your own subtask issues on GitHub and link them here in a list.*
-- [ ] \<Subtask link> 
+## Parent User Story
+*Find parent issues on GitHub and link them here*
+- [Parent user story](<Parent user story link>)
