@@ -4,10 +4,10 @@
 
 
 ### Type of change
-*Delete unchecked boxes (only for Type of change)*
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
+- [ ] Feature that assists further development (non-breaking change for the developer)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] This change requires a documentation update
 
@@ -19,8 +19,7 @@
 - [ ] You have added a clear title and description for the PR
 - [ ] The CI pass
 - [ ] There are no merge conflicts
-- [ ] You are using approved terminology
-- [ ] I have added docstrings for my code
+- [ ] The code satisfies the [code standards](https://docs.google.com/document/d/1R9n9MeuRwz3WSrnWZUjrbmGeosTlu1Xz8f5F7gu2AJE/edit#heading=h.e9xl4xfoldow) 
+- [ ] I have added docstrings for my code, where needed
 - [ ] Code implements intended functionality
-- [ ] All relevant tests pass (Black, White, Integration etc.)
-- [ ] The Pull Request has passed review from two people that did not participate in the implementation.
+- [ ] All relevant tests pass (Black, White, Integration, Monkey, etc.)
