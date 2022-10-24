@@ -1,7 +1,6 @@
-## Online Training and Assessment for Developers
+## YourPAAL, an Online Training and Assessment tool for developers
 
-This is the read me of the online training and assessment for developers project. 
-
+This is an organization full of microservices and great React code
 <!--
 
 **Here are some ideas to get you started:**
